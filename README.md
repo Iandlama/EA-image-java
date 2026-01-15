@@ -155,15 +155,4 @@ The algorithm approximates an image by evolutionarily optimizing the parameters 
 
 ---
 
-## Назначение проекта
 
-Проект может использоваться:
-- как учебный пример генетического алгоритма,
-- для исследований в evolutionary art,
-- как основа для художественной генерации изображений,
-- как демонстрация shape-based image approximation.
-""";
-
-        System.out.println(readme);
-    }
-}
